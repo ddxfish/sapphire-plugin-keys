@@ -1,0 +1,1 @@
+This is just the repo for authorized plugin keys for the Sapphire app. Very few plugin authors will get to be in here. It shows they are verified by Sapphire. You don't apply, you make your own plugins and participate over time. 
