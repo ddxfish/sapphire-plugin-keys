@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "keys": [
+    {
+      "name": "Krem's Evil Twin",
+      "public_key_hex": "96080b396af06ee158ae852d8b6157f12aeb496210e75302b80f5e20678d6b4f",
+      "url": "https://github.com/ddxfish",
+      "added": "2026-03-03"
+    }
+  ]
+}
