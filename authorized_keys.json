@@ -12,6 +12,12 @@
       "public_key_hex": "cd5db129c2734134f4903a15a30a639adf5dea21137f3a47263f8b5e3fc10129",
       "url": "",
       "added": "2026-03-11"
+    },
+    {
+      "name": "Draxall",
+      "public_key_hex": "6d2a15a0d4c09f14352541c0e30ca5a2956ca762809a85d7becdba36eb34776c",
+      "url": "",
+      "added": "2026-04-03"
     }
   ]
 }
