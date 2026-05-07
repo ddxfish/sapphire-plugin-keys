@@ -24,6 +24,12 @@
       "public_key_hex": "866f0edbce4e4f5dafbb9ea31e125d140d65eec7634aea4b817a815bd5a38c2c",
       "url": "",
       "added": "2026-04-17"
+    },
+    {
+      "name": "gregg265",
+      "public_key_hex": "cdb836778817f5382991d5be0b14f533436e1eff028eff2fb817d49bb55cbe40",
+      "url": "",
+      "added": "2026-05-07"
     }
   ]
 }
