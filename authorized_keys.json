@@ -30,6 +30,12 @@
       "public_key_hex": "cdb836778817f5382991d5be0b14f533436e1eff028eff2fb817d49bb55cbe40",
       "url": "",
       "added": "2026-05-07"
+    },
+    {
+      "name": "SapphirePrime",
+      "public_key_hex": "0daa0226bc60128e540d1b6bd720bbb336e0882c5c2b7b69767a0008a6878d6a",
+      "url": "https://github.com/SapphirePrime",
+      "added": "2026-05-09"
     }
   ]
 }
